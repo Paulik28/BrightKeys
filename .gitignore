@@ -1,0 +1,12 @@
+# Build & Output
+bin/
+obj/
+dist/
+*.suo
+*.user
+
+# Data & Logs
+log.txt
+*.log
+config.ini
+state.ini
